@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Praveen
+- 👀 I’m interested in DevOps Automation and Infrastructure management
+- 🌱 I’m currently working on AWS Services alonf with fullstack deveopment experience 
+- 💞️ I’m looking to collaborate on DevOps and Cloud computing solutions
+- 📫 You can send a mail to bpraveen428@gmail.com, to contact me.
